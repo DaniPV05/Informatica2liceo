@@ -1,0 +1,35 @@
+.navegacion li{
+    display: inline;
+    width: 100px;
+    padding: 10px;
+    border: solid black 2px;
+}
+img{
+    display: block;
+    margin: auto;
+}
+h1{
+    text-align: center;
+}
+p {
+    border: darkgray 5px double;
+    font-family: cursive;
+  }
+  body {
+    background-image: url("porta2.png");
+    background-color: #cccccc;
+    
+  }
+ul{
+  text-align: center;
+}
+
+body{
+  margin-left: 80px;
+}
+
+
+
+ 
+  
+
